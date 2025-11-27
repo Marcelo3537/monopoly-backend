@@ -1,0 +1,11 @@
+# Ignorar carpetas generadas por Visual Studio y compilación
+.vs/
+*/bin/
+*/obj/
+
+# Ignorar caché de NuGet y paquetes de prueba
+*.nupkg
+*.suo
+
+# Ignorar archivos temporales
+*.user
