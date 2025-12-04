@@ -5,7 +5,9 @@ namespace Backend.Models
 {
     public class Casilla
     {
-        [Key] // Esta es la Clave Primaria
         public int Id { get; set; }
+
+        public List<Posesion> Posesiones { get; set; } = new();
     }
+
 }

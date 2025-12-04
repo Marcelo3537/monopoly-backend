@@ -5,7 +5,11 @@ namespace Backend.Models
 {
     public class Tarjeta
     {
-        [Key] // Esta es la Clave Primaria
         public int Id { get; set; }
+        public string Tipo { get; set; }
+        public string Texto { get; set; }
+        public string Efecto { get; set; }
+        public int ValorEfecto { get; set; }
     }
+
 }

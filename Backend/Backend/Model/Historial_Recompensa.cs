@@ -3,9 +3,14 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Backend.Models
 {
-    public class Historial_Recompensa
+    public class HistorialRecompensa
     {
-        [Key] // Esta es la Clave Primaria
         public int Id { get; set; }
+        public DateTime FechaReclamacion { get; set; }
+
+        // Muchos a muchos
+        public List<Usuario> Usuarios { get; set; } = new();
+        public List<Recompensa> Recompensas { get; set; } = new();
     }
+
 }
