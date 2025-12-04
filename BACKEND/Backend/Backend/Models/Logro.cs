@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Backend.Models
 {
-    public class Producto
+    public class Logro
     {
         [Key] // Esta es la Clave Primaria
         public int Id { get; set; }
