@@ -1,12 +1,263 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\annaa\\OneDrive\\Escritorio\\DAM2\\Proyecto intermodular\\monopoly-backend\\BACKEND\\Backend\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|c:\\marce\\instituto\\proyecto-monopoly\\monopoly-backend\\backend\\backend\\backend\\utils\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|solutionrelative:backend\\utils\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|c:\\marce\\instituto\\proyecto-monopoly\\monopoly-backend\\backend\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|c:\\marce\\instituto\\proyecto-monopoly\\monopoly-backend\\backend\\backend\\backend\\models\\casilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|solutionrelative:backend\\models\\casilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|c:\\marce\\instituto\\proyecto-monopoly\\monopoly-backend\\backend\\backend\\backend\\models\\posesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|solutionrelative:backend\\models\\posesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|c:\\marce\\instituto\\proyecto-monopoly\\monopoly-backend\\backend\\backend\\backend\\models\\logro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|solutionrelative:backend\\models\\logro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|c:\\marce\\instituto\\proyecto-monopoly\\monopoly-backend\\backend\\backend\\backend\\models\\recompensa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|solutionrelative:backend\\models\\recompensa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|c:\\marce\\instituto\\proyecto-monopoly\\monopoly-backend\\backend\\backend\\backend\\models\\historial_recompensa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|solutionrelative:backend\\models\\historial_recompensa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|c:\\marce\\instituto\\proyecto-monopoly\\monopoly-backend\\backend\\backend\\backend\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|solutionrelative:backend\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|c:\\marce\\instituto\\proyecto-monopoly\\monopoly-backend\\backend\\backend\\backend\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|solutionrelative:backend\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|c:\\marce\\instituto\\proyecto-monopoly\\monopoly-backend\\backend\\backend\\backend\\models\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|solutionrelative:backend\\models\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|c:\\marce\\instituto\\proyecto-monopoly\\monopoly-backend\\backend\\backend\\backend\\models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|solutionrelative:backend\\models\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|c:\\marce\\instituto\\proyecto-monopoly\\monopoly-backend\\backend\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|c:\\marce\\instituto\\proyecto-monopoly\\monopoly-backend\\backend\\backend\\backend\\monopolydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E723CC8B-30C0-4588-83C0-336CE0D93D73}|Backend\\Backend.csproj|solutionrelative:backend\\monopolydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Utils\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "Backend\\Utils\\PasswordHelper.cs",
+              "ToolTip": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Utils\\PasswordHelper.cs",
+              "RelativeToolTip": "Backend\\Utils\\PasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:50:48.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Backend.csproj",
+              "DocumentMoniker": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Backend.csproj",
+              "RelativeDocumentMoniker": "Backend\\Backend.csproj",
+              "ToolTip": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Backend.csproj",
+              "RelativeToolTip": "Backend\\Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T16:50:23.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Casilla.cs",
+              "DocumentMoniker": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Casilla.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Casilla.cs",
+              "ToolTip": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Casilla.cs",
+              "RelativeToolTip": "Backend\\Models\\Casilla.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:48:46.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Posesion.cs",
+              "DocumentMoniker": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Posesion.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Posesion.cs",
+              "ToolTip": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Posesion.cs",
+              "RelativeToolTip": "Backend\\Models\\Posesion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:48:19.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recompensa.cs",
+              "DocumentMoniker": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Recompensa.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Recompensa.cs",
+              "ToolTip": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Recompensa.cs",
+              "RelativeToolTip": "Backend\\Models\\Recompensa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:47:39.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Historial_Recompensa.cs",
+              "DocumentMoniker": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Historial_Recompensa.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Historial_Recompensa.cs",
+              "ToolTip": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Historial_Recompensa.cs",
+              "RelativeToolTip": "Backend\\Models\\Historial_Recompensa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:46:54.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logro.cs",
+              "DocumentMoniker": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Logro.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Logro.cs",
+              "ToolTip": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Logro.cs",
+              "RelativeToolTip": "Backend\\Models\\Logro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:46:14.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Producto.cs",
+              "ToolTip": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Producto.cs",
+              "RelativeToolTip": "Backend\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:45:49.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tarjeta.cs",
+              "DocumentMoniker": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Tarjeta.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Tarjeta.cs",
+              "ToolTip": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Tarjeta.cs",
+              "RelativeToolTip": "Backend\\Models\\Tarjeta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:44:37.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Partida.cs",
+              "DocumentMoniker": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Partida.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Partida.cs",
+              "ToolTip": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Partida.cs",
+              "RelativeToolTip": "Backend\\Models\\Partida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:43:43.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Models\\Usuario.cs",
+              "RelativeToolTip": "Backend\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:41:22.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-04T16:39:27.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MonopolyDbContext.cs",
+              "DocumentMoniker": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\MonopolyDbContext.cs",
+              "RelativeDocumentMoniker": "Backend\\MonopolyDbContext.cs",
+              "ToolTip": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\MonopolyDbContext.cs",
+              "RelativeToolTip": "Backend\\MonopolyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:30:19.624Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 188,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

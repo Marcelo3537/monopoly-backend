@@ -9,3 +9,5 @@
 
 # Ignorar archivos temporales
 *.user
+*.db
+*.cache
