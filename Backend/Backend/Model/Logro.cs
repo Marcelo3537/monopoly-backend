@@ -1,16 +1,13 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.Collections.Generic;
 
 namespace Backend.Models
 {
     public class Logro
     {
-        public int Id { get; set; }
+        public int IdLogro { get; set; }
         public string Nombre { get; set; }
         public string Descripcion { get; set; }
 
-        // Muchos a muchos
-        public List<Usuario> Usuarios { get; set; } = new();
+        public ICollection<UsuarioLogro> UsuarioLogros { get; set; }
     }
-
 }

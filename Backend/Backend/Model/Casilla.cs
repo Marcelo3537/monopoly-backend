@@ -1,13 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-
-namespace Backend.Models
+﻿namespace Backend.Models
 {
     public class Casilla
     {
-        public int Id { get; set; }
+        public int IdCasilla { get; set; }
 
-        public List<Posesion> Posesiones { get; set; } = new();
+        public string Tipo { get; set; }
+        public string Nombre { get; set; }
+        public int Posicion { get; set; }
     }
-
 }

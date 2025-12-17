@@ -3257,11 +3257,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Backend.csproj",
+      "projectUniqueName": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\Backend\\Backend\\Backend.csproj",
       "projectName": "Backend",
-      "projectPath": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\Backend.csproj",
+      "projectPath": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\Backend\\Backend\\Backend.csproj",
       "packagesPath": "C:\\Users\\irush\\.nuget\\packages\\",
-      "outputPath": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\BACKEND\\Backend\\Backend\\obj\\",
+      "outputPath": "C:\\Marce\\Instituto\\PROYECTO-MONOPOLY\\monopoly-backend\\Backend\\Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

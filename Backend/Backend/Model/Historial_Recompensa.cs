@@ -1,16 +1,17 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+﻿using System;
 
 namespace Backend.Models
 {
     public class HistorialRecompensa
     {
-        public int Id { get; set; }
+        public int IdHistorial { get; set; }
+
+        public int IdUsuario { get; set; }
+        public Usuario Usuario { get; set; }
+
+        public int IdRecompensa { get; set; }
+        public Recompensa Recompensa { get; set; }
+
         public DateTime FechaReclamacion { get; set; }
-
-        // Muchos a muchos
-        public List<Usuario> Usuarios { get; set; } = new();
-        public List<Recompensa> Recompensas { get; set; } = new();
     }
-
 }

@@ -1,22 +1,15 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-
-namespace Backend.Models
+﻿namespace Backend.Models
 {
     public class Posesion
     {
-        public int Id { get; set; }
-        public bool EstaHipotecada { get; set; }
+        public int IdPosesion { get; set; }
 
-        // Relaciones
-        public int UsuarioId { get; set; }
+        public int IdUsuario { get; set; }
         public Usuario Usuario { get; set; }
 
-        public int PartidaId { get; set; }
-        public Partida Partida { get; set; }
-
-        public int CasillaId { get; set; }
+        public int IdCasilla { get; set; }
         public Casilla Casilla { get; set; }
-    }
 
+        public bool EstaHipotecada { get; set; }
+    }
 }
